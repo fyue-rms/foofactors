@@ -7,16 +7,11 @@ Factors are a very useful type of variable in R, but they can also drive you nut
 
 ### Installation
 
-You can install foofactors from github with:
-
 ``` r
-# install.packages("devtools")
-devtools::install_github("fyue-rms/foofactors")
+devtools::install_github("fyue-rms/foofactors", build_vignettes=TRUE)
 ```
 
-### Quick Demo
-
-This is a basic example which shows you how to solve a common problem:
+### Quick demo
 
 Binding two factors via `fbind()`:
 
