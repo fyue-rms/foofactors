@@ -12,4 +12,5 @@ Suggests: testthat,
     knitr,
     rmarkdown
 Imports: dplyr
-VignetteBuilder: knitr
+URL: https://github.com/fyue-rms/foofactors
+BugReports: https://github.com/fyue-rms/foofactors/issues
