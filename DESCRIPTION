@@ -14,3 +14,4 @@ Suggests: testthat,
 Imports: dplyr
 URL: https://github.com/fyue-rms/foofactors
 BugReports: https://github.com/fyue-rms/foofactors/issues
+VignetteBuilder: knitr

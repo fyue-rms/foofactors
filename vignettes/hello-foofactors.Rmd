@@ -2,10 +2,7 @@
 title: "stringsAsFactors = HELLNO"
 author: "Feng Yue"
 date: "`r Sys.Date()`"
-output:
-  rmarkdown::html_vignette:
-    toc: true
-    keep_md: true
+output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{stringsAsFactors = HELLNO}
   %\VignetteEngine{knitr::rmarkdown}
@@ -50,4 +47,3 @@ The `freq_out()` function returns a frequency table as a well-named `tbl_df`:
 ```{r}
 freq_out(x)
 ```
-
