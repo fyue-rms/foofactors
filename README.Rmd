@@ -28,7 +28,7 @@ devtools::install_github("fyue-rms/foofactors", build_vignettes=TRUE)
   
 ### Quick demo
 
-Binding two factors via `fbind()`:
+Binding three factors via `fbind()`:
 
 ```{r}
 library(foofactors)
